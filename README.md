@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="images/obd2-can-bus-reader-banner.svg" alt="OBD2 CAN Bus Reader — open-source ESP32 scan tool firmware: an OBD-II socket with the CAN pins 6 and 14 highlighted, an ESP32 and a phone showing live engine data" width="100%">
+<img src="images/obd2-can-bus-reader-banner.svg" alt="OBD2 CAN Bus Reader — open-source ESP32 scan tool firmware: the web dashboard on two phones, the main menu and live engine data, next to the OBD-II dongle that runs the firmware" width="100%">
 
 # OBD2 CAN Bus Reader
 
